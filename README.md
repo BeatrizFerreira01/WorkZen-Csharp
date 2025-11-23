@@ -37,6 +37,8 @@ API desenvolvida para a **Global Solution 2025 (4º semestre)**, criada com foco
 ```
 WorkZen/
 │
+├── Screenshots/
+│
 ├── WorkZen.Api/                     # Projeto principal
 │   ├── Controllers/
 │   ├── DTOs/
@@ -52,6 +54,7 @@ WorkZen/
 │   ├── WorkZenApiFactory.cs
 │   └── UnitTest1.cs
 │
+└── README.md
 └── WorkZen.sln
 ```
 
@@ -174,12 +177,14 @@ Os testes utilizam:
 # 📸 Screenshots
 
 WorkZen/
+├── WoekZen.Api/
+├── WoekZen.Api.Tests.Integration/
 ├── Screenshots/
-
-- `swagger.png` – Tela do Swagger
-- `health.png` – Health Check
-- `tests-success.png` – Testes passando
-- `tests-success_2.png` – Testes passando
+│   ├── swagger.png    # Tela do Swagger
+│   ├── health.png     # Health Check
+│   ├── tests-success.png    # Testes passando
+│   ├── tests-success_2.png  # Testes passando
+└── README.md
 
 ```md
 ![Swagger](screenshots/swagger.png)
