@@ -176,6 +176,7 @@ Os testes utilizam:
 
 # 📸 Screenshots
 
+```
 WorkZen/
 ├── WoekZen.Api/
 ├── WoekZen.Api.Tests.Integration/
@@ -185,6 +186,7 @@ WorkZen/
 │   ├── tests-success.png    # Testes passando
 │   ├── tests-success_2.png  # Testes passando
 └── README.md
+```
 
 ```md
 ![Swagger](screenshots/swagger.png)
