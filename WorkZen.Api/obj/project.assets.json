@@ -3397,11 +3397,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api\\WorkZen.Api.csproj",
+      "projectUniqueName": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api\\WorkZen.Api.csproj",
       "projectName": "WorkZen.Api",
-      "projectPath": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api\\WorkZen.Api.csproj",
+      "projectPath": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api\\WorkZen.Api.csproj",
       "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api\\obj\\",
+      "outputPath": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

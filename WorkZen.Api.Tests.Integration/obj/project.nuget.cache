@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QP587qwfRrw=",
+  "dgSpecHash": "y5wie9a5H3U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj",
+  "projectFilePath": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beatr\\.nuget\\packages\\asp.versioning.abstractions\\8.0.0\\asp.versioning.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\beatr\\.nuget\\packages\\asp.versioning.http\\8.0.0\\asp.versioning.http.8.0.0.nupkg.sha512",

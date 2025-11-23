@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj": {}
+    "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj": {
+    "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj",
+        "projectUniqueName": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj",
         "projectName": "WorkZen.Api.Tests.Integration",
-        "projectPath": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj",
+        "projectPath": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api.Tests.Integration\\WorkZen.Api.Tests.Integration.csproj",
         "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api.Tests.Integration\\obj\\",
+        "outputPath": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api.Tests.Integration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api\\WorkZen.Api.csproj": {
-                "projectPath": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api\\WorkZen.Api.csproj"
+              "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api\\WorkZen.Api.csproj": {
+                "projectPath": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api\\WorkZen.Api.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api\\WorkZen.Api.csproj": {
+    "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api\\WorkZen.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api\\WorkZen.Api.csproj",
+        "projectUniqueName": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api\\WorkZen.Api.csproj",
         "projectName": "WorkZen.Api",
-        "projectPath": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api\\WorkZen.Api.csproj",
+        "projectPath": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api\\WorkZen.Api.csproj",
         "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beatr\\Downloads\\WorkZen_FIXED\\WorkZen.Api\\obj\\",
+        "outputPath": "C:\\Users\\beatr\\Downloads\\WorkZen\\WorkZen.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

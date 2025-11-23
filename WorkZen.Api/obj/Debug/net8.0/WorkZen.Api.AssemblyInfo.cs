@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkZen.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d317825d7d363b61e7dd6dd0b4341ca0cb42c006")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkZen.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkZen.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

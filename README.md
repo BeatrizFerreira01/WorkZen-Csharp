@@ -35,7 +35,7 @@ API desenvolvida para a **Global Solution 2025 (4º semestre)**, criada com foco
 # 📁 Estrutura do Projeto
 
 ```
-WorkZen_Fixed/
+WorkZen/
 │
 ├── WorkZen.Api/                     # Projeto principal
 │   ├── Controllers/
@@ -171,20 +171,21 @@ Os testes utilizam:
 
 ---
 
-# 📸 Screenshots Recomendadas
+# 📸 Screenshots
 
-Crie uma pasta `screenshots/` e inclua:
+WorkZen/
+├── Screenshots/
 
-- `swagger.png` – Tela do Swagger  
-- `health.png` – Health Check  
-- `tests-success.png` – Testes passando  
-
-Depois adicione no README:
+- `swagger.png` – Tela do Swagger
+- `health.png` – Health Check
+- `tests-success.png` – Testes passando
+- `tests-success_2.png` – Testes passando
 
 ```md
 ![Swagger](screenshots/swagger.png)
 ![Health](screenshots/health.png)
 ![Testes](screenshots/tests-success.png)
+![Testes](screenshots/test-success_2.png)
 ```
 
 ---
