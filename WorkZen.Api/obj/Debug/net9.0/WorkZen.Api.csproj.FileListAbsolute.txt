@@ -1,0 +1,7 @@
+C:\Users\beatr\WorkZen\WorkZen.Api\obj\Debug\net9.0\WorkZen.Api.csproj.AssemblyReference.cache
+C:\Users\beatr\WorkZen\WorkZen.Api\obj\Debug\net9.0\WorkZen.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\WorkZen\WorkZen.Api\obj\Debug\net9.0\WorkZen.Api.AssemblyInfoInputs.cache
+C:\Users\beatr\WorkZen\WorkZen.Api\obj\Debug\net9.0\WorkZen.Api.AssemblyInfo.cs
+C:\Users\beatr\WorkZen\WorkZen.Api\obj\Debug\net9.0\WorkZen.Api.csproj.CoreCompileInputs.cache
+C:\Users\beatr\WorkZen\WorkZen.Api\obj\Debug\net9.0\WorkZen.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\beatr\WorkZen\WorkZen.Api\obj\Debug\net9.0\WorkZen.Api.MvcApplicationPartsAssemblyInfo.cache

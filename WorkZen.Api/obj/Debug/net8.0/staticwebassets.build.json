@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7aE1gglhT4khZq2Gkd3L/oDIP8lMxt5YAYrUniCzUTQ=",
+  "Source": "WorkZen.Api",
+  "BasePath": "_content/WorkZen.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
