@@ -55,6 +55,7 @@ WorkZen/
 │   └── UnitTest1.cs
 │
 └── README.md
+│
 └── WorkZen.sln
 ```
 
@@ -178,13 +179,17 @@ Os testes utilizam:
 
 ```
 WorkZen/
-├── WoekZen.Api/
-├── WoekZen.Api.Tests.Integration/
+│
+├── WorkZen.Api/
+│
+├── WorkZen.Api.Tests.Integration/
+│
 ├── Screenshots/
 │   ├── swagger.png    # Tela do Swagger
 │   ├── health.png     # Health Check
 │   ├── tests-success.png    # Testes passando
 │   ├── tests-success_2.png  # Testes passando
+│
 └── README.md
 ```
 
