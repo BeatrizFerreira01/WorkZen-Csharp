@@ -37,7 +37,7 @@ API desenvolvida para a **Global Solution 2025 (4º semestre)**, criada com foco
 ```
 WorkZen/
 │
-├── Screenshots/                     # Evidênciais Visuais
+├── Screenshots/                     # Evidências Visuais
 │
 ├── WorkZen.Api/                     # Projeto Principal
 │   ├── Controllers/
@@ -189,8 +189,8 @@ WorkZen/
 ├── Screenshots/
 │   ├── swagger.png    # Tela do Swagger
 │   ├── health.png     # Health Check retornando "Healthy"
-│   ├── tests-success.png    # Testes de Integração aprovados
-│   ├── tests-success_2.png  # Testes (segunda captura)
+│   ├── tests-success-1.png    # Testes de Integração aprovados
+│   ├── tests-success-2.png  # Testes (segunda captura)
 │
 └── README.md
 ```
@@ -198,7 +198,7 @@ WorkZen/
 ```md
 ![Swagger](screenshots/swagger.png)
 ![Health](screenshots/health.png)
-![Testes](screenshots/tests-success-1.pn)
+![Testes](screenshots/tests-success-1.png)
 ![Testes](screenshots/tests-success-2.png)
 ```
 
