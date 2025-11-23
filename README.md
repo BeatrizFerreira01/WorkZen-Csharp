@@ -37,9 +37,9 @@ API desenvolvida para a **Global Solution 2025 (4º semestre)**, criada com foco
 ```
 WorkZen/
 │
-├── Screenshots/
+├── Screenshots/                     # Evidênciais Visuais
 │
-├── WorkZen.Api/                     # Projeto principal
+├── WorkZen.Api/                     # Projeto Principal
 │   ├── Controllers/
 │   ├── DTOs/
 │   ├── Entities/
@@ -50,7 +50,7 @@ WorkZen/
 │   ├── Program.cs
 │   └── appsettings.json
 │
-├── WorkZen.Api.Tests.Integration/   # Testes de integração
+├── WorkZen.Api.Tests.Integration/   # Testes de Integração
 │   ├── WorkZenApiFactory.cs
 │   └── UnitTest1.cs
 │
@@ -176,6 +176,8 @@ Os testes utilizam:
 ---
 
 # 📸 Screenshots
+A pasta *Screenshots/* contém evidências visuais da API funcionando, incluindo Swagger, Health Check e a execução dos testes de integração com sucesso.  
+Essas imagens servem como comprovação prática de que todos os requisitos atendidos na Global Solution foram implementados corretamente.
 
 ```
 WorkZen/
@@ -186,9 +188,9 @@ WorkZen/
 │
 ├── Screenshots/
 │   ├── swagger.png    # Tela do Swagger
-│   ├── health.png     # Health Check
-│   ├── tests-success.png    # Testes passando
-│   ├── tests-success_2.png  # Testes passando
+│   ├── health.png     # Health Check retornando "Healthy"
+│   ├── tests-success.png    # Testes de Integração aprovados
+│   ├── tests-success_2.png  # Testes (segunda captura)
 │
 └── README.md
 ```
@@ -196,8 +198,8 @@ WorkZen/
 ```md
 ![Swagger](screenshots/swagger.png)
 ![Health](screenshots/health.png)
-![Testes](screenshots/tests-success.png)
-![Testes](screenshots/test-success_2.png)
+![Testes](screenshots/tests-success-1.pn)
+![Testes](screenshots/tests-success-2.png)
 ```
 
 ---
